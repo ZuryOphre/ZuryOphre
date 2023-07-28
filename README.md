@@ -5,7 +5,7 @@
 <p align="center">Hello! I am a passionate Front-End Developer and a dedicated student currently pursuing Backend development with Java and Spring Boot. My curiosity for technology and my love for learning drive me to explore various programming languages and frameworks. In my free time, I indulge in my hobbies of photography and playing the violin, adding creativity to my life.</p>
 
 <h3 align="center">Education</h3>
-<p align="center">Studying Backend Development in Java with Spring Boot at ***Oracle Next Education*** and ***Alura Latam***</p>
+<p align="center">Studying Backend Development in Java with Spring Boot at <span>Oracle Next Education</span> and <span>Alura Latam</span></p>
 <ol>
   <li>Private tutor in Full Stack Web Development</li>
   <li>Platzi Courses</li>
@@ -47,7 +47,7 @@
 <h4 align="center">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=intellij,vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
   </a>
 </p>
 
